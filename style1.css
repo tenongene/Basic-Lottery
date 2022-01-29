@@ -1,0 +1,37 @@
+body {
+  background-color: blanchedalmond;
+}
+
+.title {
+  font-size: 35px;
+  text-align: center;
+  color: rgb(24, 0, 161);
+}
+
+.input {
+  font-size: 25px;
+  text-align: left;
+}
+
+.start,
+.end,
+.qty {
+  text-align: center;
+}
+.result {
+  text-align: center;
+  font-size: 25px !important;
+}
+
+.lucky {
+  text-align: center;
+  font-size: 40px !important;
+  border-top: 100px;
+  padding-top: 25px;
+  color: forestgreen;
+}
+
+.btn {
+  padding: 5px;
+  align-content: space-around;
+}

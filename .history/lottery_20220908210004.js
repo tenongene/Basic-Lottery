@@ -1,6 +1,8 @@
 'use strict';
 
-
+// let beginValue = 2;
+// let endValue = 70;
+// let qty = 6;
 
 document.querySelector('.btn').addEventListener('click', function () {
 	let beginValue = Number(document.querySelector('.start').value);
